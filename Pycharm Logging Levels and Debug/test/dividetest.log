@@ -1,0 +1,15 @@
+2022-12-30 11:42:43,302 INFO
+2022-12-30 11:42:54,237 INFO
+2022-12-30 11:43:04,230 INFO
+2022-12-30 11:44:38,043 INFO
+2022-12-30 11:45:07,119 INFO the numbers entered by user are 3 and 4
+2022-12-30 11:48:19,699 INFO the numbers entered by user are 3 and 4
+2022-12-30 11:48:19,699 INFO we are into function
+2022-12-30 11:48:19,699 INFO we have completed division operation
+2022-12-30 11:48:47,596 INFO the numbers entered by user are 3 and 0
+2022-12-30 11:48:47,596 INFO we are into function
+2022-12-30 11:48:47,596 ERROR division by zero
+Traceback (most recent call last):
+  File "C:\Users\avina\PycharmProjects\test\test3.py", line 8, in divide
+    div = a/b
+ZeroDivisionError: division by zero

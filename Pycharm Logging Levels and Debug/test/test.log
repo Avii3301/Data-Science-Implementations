@@ -1,0 +1,22 @@
+INFO:root:this is my first code for logging
+INFO:root:this is my first code for logging
+INFO:root:2
+INFO:root:this is my first code for logging
+INFO:root:2
+INFO:root:this is my first code for logging
+WARNING:root:this will try to log a warning
+INFO:root:2
+INFO:root:this is my first code for logging
+WARNING:root:this will try to log a warning
+INFO:root:2
+WARNING:root:2 FOUND!!!
+INFO:root:this is my first code for logging
+WARNING:root:this will try to log a warning
+ERROR:root:error message from system
+INFO:root:2
+WARNING:root:2 FOUND!!!
+INFO:root:this is my first code for logging
+WARNING:root:this will try to log a warning
+ERROR:root:error message from system
+INFO:root:2
+WARNING:root:2 FOUND!!!
